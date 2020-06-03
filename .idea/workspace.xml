@@ -5,23 +5,39 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/engineering.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
       <change beforePath="$PROJECT_DIR$/groundworks.html" afterPath="$PROJECT_DIR$/groundworks.html" />
-      <change beforePath="$PROJECT_DIR$/img/fav-icon/favicon-16x16.png" afterPath="$PROJECT_DIR$/img/fav-icon/favicon-16x16.png" />
-      <change beforePath="$PROJECT_DIR$/img/fav-icon/favicon-32x32.png" afterPath="$PROJECT_DIR$/img/fav-icon/favicon-32x32.png" />
-      <change beforePath="$PROJECT_DIR$/img/fav-icon/favicon.ico" afterPath="$PROJECT_DIR$/img/fav-icon/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/img/gem-logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/hero_blk.png" afterPath="$PROJECT_DIR$/img/hero_blk.png" />
-      <change beforePath="$PROJECT_DIR$/img/hero_blue.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/logo-colour-black.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/logo-colour.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/logo-dark.png" afterPath="$PROJECT_DIR$/img/logo-dark.png" />
-      <change beforePath="$PROJECT_DIR$/img/logo-light.png" afterPath="$PROJECT_DIR$/img/logo-light.png" />
+      <change beforePath="$PROJECT_DIR$/img/grey-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/hero.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo02.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo03.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo04.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo05.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo06.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo07.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo08.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo09.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo10.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo11.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo12.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo13f.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo14f.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo15f.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo16f.JPG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/newphotos/photo17f.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/01-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/02-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/03-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/04-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/05-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/05a-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/06-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/07-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/10-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/11-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/13-min.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/img/photos/hero-mobile.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/send-form.php" afterPath="$PROJECT_DIR$/send-form.php" />
-      <change beforePath="$PROJECT_DIR$/thank_you.html" afterPath="$PROJECT_DIR$/thank_you.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,11 +51,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="253" column="54" lean-forward="true" selection-start-line="253" selection-start-column="54" selection-end-line="253" selection-end-column="54" />
+            <state relative-caret-position="538">
+              <caret line="124" column="14" lean-forward="true" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -48,8 +64,8 @@
       <file leaf-file-name="groundworks.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/groundworks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="154" column="50" lean-forward="false" selection-start-line="154" selection-start-column="50" selection-end-line="154" selection-end-column="50" />
+            <state relative-caret-position="382">
+              <caret line="150" column="107" lean-forward="false" selection-start-line="150" selection-start-column="107" selection-end-line="150" selection-end-column="107" />
               <folding />
             </state>
           </provider>
@@ -85,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="134" column="99" lean-forward="false" selection-start-line="134" selection-start-column="99" selection-end-line="134" selection-end-column="99" />
+            <state relative-caret-position="370">
+              <caret line="134" column="103" lean-forward="false" selection-start-line="134" selection-start-column="103" selection-end-line="134" selection-end-column="103" />
               <folding />
             </state>
           </provider>
@@ -98,8 +114,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="134" column="115" lean-forward="false" selection-start-line="134" selection-start-column="115" selection-end-line="134" selection-end-column="115" />
+            <state relative-caret-position="261">
+              <caret line="124" column="66" lean-forward="true" selection-start-line="124" selection-start-column="66" selection-end-line="124" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -139,9 +155,9 @@
         <option value="$PROJECT_DIR$/send-form.php" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/groundworks.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -172,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,7 +205,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -229,12 +245,13 @@
       <workItem from="1591197871841" duration="1698000" />
       <workItem from="1591199679282" duration="1238000" />
       <workItem from="1591202407945" duration="1475000" />
-      <workItem from="1591204217822" duration="609000" />
+      <workItem from="1591204217822" duration="759000" />
+      <workItem from="1591206670749" duration="491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8505000" />
+    <option name="totallyTimeSpent" value="9146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="328" y="47" width="1407" height="810" extended-state="0" />
@@ -627,32 +644,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/groundworks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="154" column="50" lean-forward="false" selection-start-line="154" selection-start-column="50" selection-end-line="154" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="253" column="54" lean-forward="true" selection-start-line="253" selection-start-column="54" selection-end-line="253" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="134" column="115" lean-forward="false" selection-start-line="134" selection-start-column="115" selection-end-line="134" selection-end-column="115" />
+        <state relative-caret-position="382">
+          <caret line="150" column="107" lean-forward="false" selection-start-line="150" selection-start-column="107" selection-end-line="150" selection-end-column="107" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="134" column="99" lean-forward="false" selection-start-line="134" selection-start-column="99" selection-end-line="134" selection-end-column="99" />
+        <state relative-caret-position="370">
+          <caret line="134" column="103" lean-forward="false" selection-start-line="134" selection-start-column="103" selection-end-line="134" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="124" column="66" lean-forward="true" selection-start-line="124" selection-start-column="66" selection-end-line="124" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="124" column="14" lean-forward="true" selection-start-line="124" selection-start-column="14" selection-end-line="124" selection-end-column="14" />
           <folding />
         </state>
       </provider>
