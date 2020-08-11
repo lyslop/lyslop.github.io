@@ -522,7 +522,7 @@ nav hr {
 .menu li a {
   font-family: "Raleway", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
-  font-size: 11px;
+  font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #777777;
@@ -534,7 +534,7 @@ nav hr {
   line-height: 14px;
 }
 .menu li a:hover {
-  color: #D34000;
+  color: #FFFFFF;
 }
 @media all and (max-width: 1050px) {
   .menu li {
@@ -554,7 +554,7 @@ nav hr {
   color: #fff;
 }
 .overlay-bar .menu li a:hover {
-  color: #D34000;
+  color: #FFFFFF;
 }
 .overlay-bar .social-icons li a {
   color: #fff;
@@ -1043,7 +1043,7 @@ header.signup:before {
   height: 100%;
   top: 0px;
   content: '';
-  opacity: 0.6;
+  opacity: 0.4;
   z-index: 2;
   background-color: #000000;
 }
